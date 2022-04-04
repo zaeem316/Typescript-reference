@@ -3,11 +3,14 @@ let age: number = 27
 let full_name: string = 'zaeem'
 let is_male: boolean = true
 
+
 /* Array  */
 let arr: number[] = [1, 2, 3, 4]
 
+
 /* Tuples  */
 let bio: [string, number, boolean] = ['Zaeem', 27, true]
+
 
 /* Tuple Array  */
 let employee: [string, number][] = [
